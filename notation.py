@@ -14,8 +14,8 @@ def valider_notes(notes: list[float]) -> bool:
     for n in notes:
         if n > 3:
             return False
-
-    return True
+        else:
+            return True
 
 
 def calculer_points(vbase: float, notes: list[float]) -> float:

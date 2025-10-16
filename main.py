@@ -24,7 +24,7 @@ if __name__ == "__main__":
 
 
 
-#calcul
+#calcul plan de test
 note_1 =(((3+2+1+2+3+3+2+2+3) - (3+1) ) /7 ) + 3.2
 print(note_1)
 
