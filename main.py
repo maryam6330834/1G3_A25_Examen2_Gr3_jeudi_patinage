@@ -21,3 +21,12 @@ if __name__ == "__main__":
             print(noms[i], ":", total, "points", vbases[i])
         except:
             print(noms[i], ": erreur")
+
+
+
+#calcul
+note_1 =(((3+2+1+2+3+3+2+2+3) - (3+1) ) /7 ) + 3.2
+print(note_1)
+
+note_2 = ((1+1+2+0+1+2+1+1+1) - (1+1) /7) + 4
+print(note_2)

@@ -11,8 +11,9 @@ from notation import *
 
 
 
+
 # -----------------------------
 # TODO : Tests unitaires pour calculer_points()
 # -----------------------------
-
+result = calculer_points(float)
 
